@@ -31,9 +31,7 @@ Puedes descargar la última versión de futbol_app [aquí](https://github.com/ta
 Si encuentras algún problema o tienes alguna pregunta, por favor contáctanos a través de:
 - Teléfono: [+54 3454 944 414](https://wa.link/oaf93e)
 - Web: [DMAS FM](https://fmdemas.com.ar/)
-- Redes Sociales:
-- [Instagram] (https://www.instagram.com/fmdemas107.7/)
-- [Facebook] (https://www.facebook.com/profile.php?id=100064111091743)
+- Redes Sociales: [Instagram](https://www.instagram.com/fmdemas107.7/) , [Facebook](https://www.facebook.com/profile.php?id=100064111091743)
 
 ## Acerca de DMAS FM 107.7
 DMAS FM 107.7 es la emisora líder en Concordia, Entre Ríos, ofreciendo la mejor música, noticias locales y entretenimiento para nuestra comunidad desde [año de fundación].
