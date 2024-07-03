@@ -34,7 +34,7 @@ Si encuentras algún problema o tienes alguna pregunta, por favor contáctanos a
 - Redes Sociales: [Instagram](https://www.instagram.com/fmdemas107.7/) , [Facebook](https://www.facebook.com/profile.php?id=100064111091743)
 
 ## Acerca de DMAS FM 107.7
-DMAS FM 107.7 es la emisora líder en Concordia, Entre Ríos, ofreciendo la mejor música, noticias locales y entretenimiento para nuestra comunidad desde [año de fundación].
+DMAS FM 107.7 es la emisora líder en Concordia, Entre Ríos, ofreciendo la mejor música, noticias locales y entretenimiento para nuestra comunidad desde el 2014.
 
 ---
 
