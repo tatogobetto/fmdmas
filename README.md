@@ -4,7 +4,9 @@
 Bienvenido a la aplicación oficial de DMAS FM 107.7, la voz de Concordia, Entre Ríos. Esta aplicación te permite sintonizar nuestra emisora desde cualquier lugar del mundo a través de tu dispositivo móvil.
 
 ## Descarga
-Puedes descargar la última versión de futbol_app [aquí](https://github.com/tatogobetto/fmdmas/releases/download/v1.1.0/DeMASFM.apk).
+Opción 1: Puedes descargar la última versión de futbol_app [aquí](https://github.com/tatogobetto/fmdmas/releases/download/v1.1.0/DeMASFM.apk).
+Opción 2: Acceder al navegador con esta direccón:
+  https://github.com/tatogobetto/fmdmas/releases/download/v1.1.0/DeMASFM.apk
 
 ## Características principales
 - **Transmisión en vivo**: Escucha DMAS FM 107.7 en tiempo real.
@@ -38,4 +40,4 @@ DMAS FM 107.7 es la emisora líder en Concordia, Entre Ríos, ofreciendo la mejo
 
 ---
 
-Desarrollado con ❤️ para los oyentes de DMAS FM 107.7 - La voz de Concordia, Entre Ríos.
+Desarrollado con ❤️ para los oyentes de DMAS FM 107.7 - Concordia, Entre Ríos.
